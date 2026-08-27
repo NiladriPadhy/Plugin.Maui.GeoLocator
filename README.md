@@ -1,5 +1,7 @@
 # Plugin.Maui.GeoLocator
 
+[NuGet](https://www.nuget.org/packages/Plugin.Maui.GeoLocator)
+
 A .NET MAUI plugin for **Android** and **iOS** that provides:
 
 - On-demand location retrieval
@@ -8,6 +10,8 @@ A .NET MAUI plugin for **Android** and **iOS** that provides:
 - Optional logging
 
 ## Install
+
+Package: [https://www.nuget.org/packages/Plugin.Maui.GeoLocator](https://www.nuget.org/packages/Plugin.Maui.GeoLocator)
 
 ```bash
 dotnet add package Plugin.Maui.GeoLocator
