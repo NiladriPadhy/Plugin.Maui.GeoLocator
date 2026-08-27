@@ -1,0 +1,8 @@
+<Solution>
+	<Folder Name="/src/">
+		<Project Path="src/Plugin.Maui.GeoLocator/Plugin.Maui.GeoLocator.csproj" />
+	</Folder>
+	<Folder Name="/samples/">
+		<Project Path="samples/GeoLocator.Sample/GeoLocator.Sample.csproj" />
+	</Folder>
+</Solution>
