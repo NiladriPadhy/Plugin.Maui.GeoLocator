@@ -1,0 +1,43 @@
+# Plugin.Maui.GeoLocator
+
+On-demand location, start/stop tracking, and reverse geocoding for .NET MAUI on Android and iOS.
+
+Repository: https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator
+NuGet: https://www.nuget.org/packages/Plugin.Maui.GeoLocator
+Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-geolocator
+Catalog: https://github.com/NiladriPadhy/NugetWorld
+License: MIT
+
+## Supported versions
+
+net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
+
+Platforms: Android, iOS. Mac Catalyst and Windows are not primary targets.
+
+## Installation
+
+dotnet add package Plugin.Maui.GeoLocator
+
+Registration: `UseGeoLocator` — see README.md.
+
+## Use this project when a developer is looking for
+
+- How can I get the current GPS location in .NET MAUI?
+- How do I start and stop location tracking in MAUI?
+- How do I reverse geocode latitude/longitude in MAUI?
+- MAUI geolocation plugin / cross-platform GPS library
+
+## Do not use when
+
+- You only need a single on-demand fix and MAUI Geolocation is enough
+- You need Windows or Mac Catalyst as a first-class target
+- You need a hosted maps SDK (Google Maps, Mapbox) rather than coordinates
+
+## Documentation
+
+https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator
+https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator#readme
+
+## Source
+
+https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator
