@@ -18,15 +18,15 @@
 		<PackageId>Plugin.Maui.GeoLocator</PackageId>
 		<Title>.NET MAUI GeoLocator — GPS, tracking, reverse geocoding</Title>
 		<Description>On-demand location, start/stop tracking, reverse geocoding, and optional logging for .NET MAUI on Android and iOS.</Description>
-		<PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;nugetworld;geolocation;gps;location;tracking;reverse-geocoding;geocoding</PackageTags>
+		<PackageTags>dotnet-maui;maui;maui-plugin;maui-utilities;cross-platform;android;ios;nuget;mauiessentials;geolocation;gps;location;tracking;reverse-geocoding;geocoding</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageProjectUrl>https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<Authors>NugetWorld</Authors>
-		<Company>NugetWorld</Company>
-		<Copyright>Copyright © NugetWorld</Copyright>
+		<Authors>MauiEssentials</Authors>
+		<Company>MauiEssentials</Company>
+		<Copyright>Copyright © MauiEssentials</Copyright>
 		<Version>1.0.4</Version>
     <PackageReleaseNotes>LLM-friendly README, llms.txt, AGENTS.md, and improved NuGet title/tags for coding-agent discoverability.</PackageReleaseNotes>
 		<PackageOutputPath>$(MSBuildThisFileDirectory)..\..\artifacts</PackageOutputPath>

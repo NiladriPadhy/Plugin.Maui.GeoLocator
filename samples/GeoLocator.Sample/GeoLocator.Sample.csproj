@@ -10,7 +10,7 @@
 		<Nullable>enable</Nullable>
 		<MauiXamlInflator>SourceGen</MauiXamlInflator>
 		<ApplicationTitle>GeoLocator</ApplicationTitle>
-		<ApplicationId>com.nugetworld.geolocator.sample</ApplicationId>
+		<ApplicationId>com.mauiessentials.geolocator.sample</ApplicationId>
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
 		<ApplicationVersion>1</ApplicationVersion>
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">15.0</SupportedOSPlatformVersion>
