@@ -27,8 +27,8 @@
 		<Authors>MauiEssentials</Authors>
 		<Company>MauiEssentials</Company>
 		<Copyright>Copyright © MauiEssentials</Copyright>
-		<Version>1.0.4</Version>
-    <PackageReleaseNotes>LLM-friendly README, llms.txt, AGENTS.md, and improved NuGet title/tags for coding-agent discoverability.</PackageReleaseNotes>
+		<Version>1.0.5</Version>
+    <PackageReleaseNotes>Rebrand package metadata and catalog references to MauiEssentials.</PackageReleaseNotes>
 		<PackageOutputPath>$(MSBuildThisFileDirectory)..\..\artifacts</PackageOutputPath>
 		<IsPackable>true</IsPackable>
 		<IncludeSymbols>true</IncludeSymbols>
