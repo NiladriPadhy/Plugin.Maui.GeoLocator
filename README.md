@@ -136,3 +136,12 @@ dotnet build samples/GeoLocator.Sample/GeoLocator.Sample.csproj -f net10.0-andro
 - Tracking is designed for **foreground** use. Android background tracking requires a host-app foreground service. iOS background tracking requires `AllowBackgroundUpdates = true` plus the `location` background mode.
 - The plugin requests **when-in-use** location permission at runtime.
 - `net10.0` is included so shared code can reference the package. Location APIs throw `GeoLocatorException` (`FeatureNotSupported`) on that target.
+
+## Support
+
+> If this plugin saved you a weekend of native plumbing, consider buying me a coffee.
+> Your support keeps it maintained, documented, and free.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/npadhy)
+
+This library stays open source. A coffee helps cover time for bug fixes, new features, and docs.
