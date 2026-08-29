@@ -160,7 +160,8 @@ partial class GeoLocatorImplementation
 		{
 			MainThread.BeginInvokeOnMainThread(() =>
 			{
-				_manager?.StopUpdatingLocation();
+				if (!IsTracking)
+					_manager?.StopUpdatingLocation();
 				tcs.TrySetCanceled(cancellationToken);
 				if (ReferenceEquals(_oneShotTcs, tcs))
 					_oneShotTcs = null;
@@ -184,7 +185,6 @@ partial class GeoLocatorImplementation
 		{
 			_oneShotTcs = null;
 			oneShot.TrySetResult(position);
-			return;
 		}
 
 		if (IsTracking)

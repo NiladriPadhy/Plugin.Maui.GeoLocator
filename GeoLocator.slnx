@@ -5,4 +5,7 @@
 	<Folder Name="/samples/">
 		<Project Path="samples/GeoLocator.Sample/GeoLocator.Sample.csproj" />
 	</Folder>
+	<Folder Name="/tests/">
+		<Project Path="tests/Plugin.Maui.GeoLocator.Tests/Plugin.Maui.GeoLocator.Tests.csproj" />
+	</Folder>
 </Solution>
