@@ -6,9 +6,9 @@ On-demand location, start/stop tracking, and reverse geocoding for .NET MAUI on 
 
 - Package: `Plugin.Maui.GeoLocator`
 - NuGet: https://www.nuget.org/packages/Plugin.Maui.GeoLocator
-- GitHub: https://github.com/NiladriPadhy/Plugin.Maui.GeoLocator
+- GitHub: https://github.com/nuvyntralabs/Plugin.Maui.GeoLocator
 - Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-geolocator
-- Catalog: https://github.com/NiladriPadhy/MauiEssentials
+- Catalog: https://github.com/nuvyntralabs/MauiEssentials
 - Versions: net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
 
 ## When to consider this repository
